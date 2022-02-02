@@ -1,10 +1,4 @@
-/**********************************************************************
-Matr.-Nr:                     3086815
-Nachname/Surname:             Islam
-Vorname/Given name:           Md Nurul
-Uni-Email:                    md.islam.97@stud.uni-due.de
-Studiengang/Course of studis: Computer Engeeniring ISÉ.spec in Software.
-**********************************************************************/
+
 
 #include<bits/stdc++.h>
 using namespace std;
